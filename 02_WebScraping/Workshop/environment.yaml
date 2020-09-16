@@ -1,0 +1,9 @@
+name: 02_wims-env
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - bs4
+  - matplotlib
+  - numpy
+  - python=3.7
