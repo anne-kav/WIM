@@ -1,9 +1,17 @@
-# WIM Python API-Webscraping workshop: 2020-09-18
+# WIM Fall 2020
+Friday, September 18 2020
 
-Here are all files required for the Workshop in Methods held virtually on 9/18/2020.
+APIs and HTML Web Scraping
 
-[API Solutions](https://mybinder.org/v2/gh/anne-kav/WIM/master?filepath=02_WebScraping%2FWorkshop%2FAPI_Solutions.ipynb)
+Helge-Johannes Marahrens (hmarahre@iu.edu) and Anne Kavalerchik (akavaler@iu.edu)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anne-kav/WIM/master?filepath=02_WebScraping%2FWorkshop%2FWebscraping_Solutions.ipynb)
+Here are the files required for the Workshop in Methods held virtually on 9/18/2020.
+
+[Part 1: ProPublica API](https://mybinder.org/v2/gh/anne-kav/WIM/master?filepath=02_WebScraping%2FWorkshop%2FAPI_Solutions.ipynb)
+
+[Part 2: Webscraping with BeautifulSoup](https://mybinder.org/v2/gh/anne-kav/WIM/master?filepath=02_WebScraping%2FWorkshop%2FWebscraping_Solutions.ipynb)
+
+
+
 
 
