@@ -11,7 +11,7 @@ Here are the files required for the Workshop in Methods held virtually on 9/18/2
 [Part 1 ProPublica API: Exercises](https://mybinder.org/v2/gh/anne-kav/WIM/9874778d0596edb4644d4ce836ab71e6b2534ad0?filepath=02_WebScraping%2FWorkshop%2FPart1_API_Exercises.ipynb)
 
 
-[Part 1 ProPublica API: Solutions](https://mybinder.org/v2/gh/anne-kav/WIM/3ddbdee426741ef5d978168b1c6a59500eb17158?filepath=02_WebScraping%2FWorkshop%2FPart1_API_Solutions.ipynb)
+[Part 1 ProPublica API: Solutions](https://mybinder.org/v2/gh/anne-kav/WIM/master?filepath=02_WebScraping%2FWorkshop%2FPart1_API_Solutions.ipynb)
 
 ---
 
