@@ -1,14 +1,27 @@
-name: 02_wims-env
+name: base
 channels:
+  - defaults
   - conda-forge
 dependencies:
-  - pandas
-  - bs4
-  - numpy
-  - python=3.7
+  - conda
+  - python
+  - python.app
+  - conda-env
+  - conda-build
+  - conda-verify
+  - anaconda-navigator==1.9.12
+  - navigator-updater
+  - selenium
+  - mechanize
+  - spyder=4.1.3
+  - notebook
+  - jupyterhub
+  - jupyter_contrib_nbextensions
+  - nbconvert
+  - pip
+  - xlsxwriter
+  - imagemagick
   - nltk
-  - fuzzyquzzy
-  - collections
-  - itertools
+  - fuzzywuzzy
   - matplotlib
-  - python-Levenshtein
+prefix: /opt/anaconda3
