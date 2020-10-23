@@ -8,5 +8,6 @@ dependencies:
   - matplotlib
   - python-Levenshtein
   - fuzzywuzzy
+  - sklearn
 
 
