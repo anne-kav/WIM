@@ -6,3 +6,9 @@ dependencies:
   - bs4
   - numpy
   - python=3.7
+  - nltk
+  - fuzzyquzzy
+  - collections
+  - itertools
+  - matplotlib
+  - python-Levenshtein
