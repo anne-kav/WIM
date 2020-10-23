@@ -1,0 +1,14 @@
+prefix=/Users/Anne/Documents/Fall 2020/WIM/env
+exec_prefix=/Users/Anne/Documents/Fall 2020/WIM/env
+libdir=/Users/Anne/Documents/Fall 2020/WIM/env/lib
+includedir=/Users/Anne/Documents/Fall 2020/WIM/env/include
+
+Name: FreeType 2
+URL: https://freetype.org
+Description: A free, high-quality, and portable font engine.
+Version: 23.4.17
+Requires:
+Requires.private: 
+Libs: -L${libdir} -lfreetype
+Libs.private: -lz -L/Users/Anne/Documents/Fall 2020/WIM/env/lib -lpng16 -lz
+Cflags: -I${includedir}/freetype2

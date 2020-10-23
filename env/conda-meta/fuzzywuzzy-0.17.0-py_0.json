@@ -1,0 +1,173 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python",
+    "python-levenshtein >=0.12"
+  ],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/fuzzywuzzy-0.17.0-py_0",
+  "features": "",
+  "files": [
+    "lib/python3.9/site-packages/fuzzywuzzy-0.17.0-py2.7.egg-info/PKG-INFO",
+    "lib/python3.9/site-packages/fuzzywuzzy-0.17.0-py2.7.egg-info/SOURCES.txt",
+    "lib/python3.9/site-packages/fuzzywuzzy-0.17.0-py2.7.egg-info/dependency_links.txt",
+    "lib/python3.9/site-packages/fuzzywuzzy-0.17.0-py2.7.egg-info/installed-files.txt",
+    "lib/python3.9/site-packages/fuzzywuzzy-0.17.0-py2.7.egg-info/requires.txt",
+    "lib/python3.9/site-packages/fuzzywuzzy-0.17.0-py2.7.egg-info/top_level.txt",
+    "lib/python3.9/site-packages/fuzzywuzzy-0.17.0-py2.7.egg-info/zip-safe",
+    "lib/python3.9/site-packages/fuzzywuzzy/StringMatcher.py",
+    "lib/python3.9/site-packages/fuzzywuzzy/__init__.py",
+    "lib/python3.9/site-packages/fuzzywuzzy/fuzz.py",
+    "lib/python3.9/site-packages/fuzzywuzzy/process.py",
+    "lib/python3.9/site-packages/fuzzywuzzy/string_processing.py",
+    "lib/python3.9/site-packages/fuzzywuzzy/utils.py",
+    "lib/python3.9/site-packages/fuzzywuzzy/__pycache__/StringMatcher.cpython-39.pyc",
+    "lib/python3.9/site-packages/fuzzywuzzy/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/fuzzywuzzy/__pycache__/fuzz.cpython-39.pyc",
+    "lib/python3.9/site-packages/fuzzywuzzy/__pycache__/process.cpython-39.pyc",
+    "lib/python3.9/site-packages/fuzzywuzzy/__pycache__/string_processing.cpython-39.pyc",
+    "lib/python3.9/site-packages/fuzzywuzzy/__pycache__/utils.cpython-39.pyc"
+  ],
+  "fn": "fuzzywuzzy-0.17.0-py_0.tar.bz2",
+  "license": "GPLv2",
+  "license_family": "GPL",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/fuzzywuzzy-0.17.0-py_0",
+    "type": 1
+  },
+  "md5": "1ec1d78fbb8c32c7b49ffe01b40bab95",
+  "name": "fuzzywuzzy",
+  "noarch": "python",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/fuzzywuzzy-0.17.0-py_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/fuzzywuzzy-0.17.0-py2.7.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "86b11c5dcedfe7ed85e39bdd50d21f8c72b4f97335ba7e846711f4576ec7746e",
+        "sha256_in_prefix": "86b11c5dcedfe7ed85e39bdd50d21f8c72b4f97335ba7e846711f4576ec7746e",
+        "size_in_bytes": 5644
+      },
+      {
+        "_path": "site-packages/fuzzywuzzy-0.17.0-py2.7.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "0c586d5405548ba84b86204850be1749a45d021e26bdd6a7feab4de478e66682",
+        "sha256_in_prefix": "0c586d5405548ba84b86204850be1749a45d021e26bdd6a7feab4de478e66682",
+        "size_in_bytes": 463
+      },
+      {
+        "_path": "site-packages/fuzzywuzzy-0.17.0-py2.7.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/fuzzywuzzy-0.17.0-py2.7.egg-info/installed-files.txt",
+        "path_type": "hardlink",
+        "sha256": "c7a44e76abc3752d0633c3d44a2b41170099854e2c785e79660e4080669691d0",
+        "sha256_in_prefix": "c7a44e76abc3752d0633c3d44a2b41170099854e2c785e79660e4080669691d0",
+        "size_in_bytes": 408
+      },
+      {
+        "_path": "site-packages/fuzzywuzzy-0.17.0-py2.7.egg-info/requires.txt",
+        "path_type": "hardlink",
+        "sha256": "9151a8ac24454ae65f077bc24f536692aee727414004075cca757a787ec27e28",
+        "sha256_in_prefix": "9151a8ac24454ae65f077bc24f536692aee727414004075cca757a787ec27e28",
+        "size_in_bytes": 36
+      },
+      {
+        "_path": "site-packages/fuzzywuzzy-0.17.0-py2.7.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "6f163f8570647a58931f0b1ee3358e02d5e54f753867b2ae18d6ae87f369ada6",
+        "sha256_in_prefix": "6f163f8570647a58931f0b1ee3358e02d5e54f753867b2ae18d6ae87f369ada6",
+        "size_in_bytes": 11
+      },
+      {
+        "_path": "site-packages/fuzzywuzzy-0.17.0-py2.7.egg-info/zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/fuzzywuzzy/StringMatcher.py",
+        "path_type": "hardlink",
+        "sha256": "e734f96fef8f768706350dd2b7a10e456a8bf09c4c4811dad3901ed6d6871f59",
+        "sha256_in_prefix": "e734f96fef8f768706350dd2b7a10e456a8bf09c4c4811dad3901ed6d6871f59",
+        "size_in_bytes": 2437
+      },
+      {
+        "_path": "site-packages/fuzzywuzzy/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "5fca943af9056d25b6e3555bc40a4e3df02503de8fa361064eccd8856acfbbaa",
+        "sha256_in_prefix": "5fca943af9056d25b6e3555bc40a4e3df02503de8fa361064eccd8856acfbbaa",
+        "size_in_bytes": 47
+      },
+      {
+        "_path": "site-packages/fuzzywuzzy/fuzz.py",
+        "path_type": "hardlink",
+        "sha256": "fc406085dd65b9a9b6fecf2a9a0ddcaa02e2b713da5392bee9ee5913fb3f09db",
+        "sha256_in_prefix": "fc406085dd65b9a9b6fecf2a9a0ddcaa02e2b713da5392bee9ee5913fb3f09db",
+        "size_in_bytes": 9591
+      },
+      {
+        "_path": "site-packages/fuzzywuzzy/process.py",
+        "path_type": "hardlink",
+        "sha256": "43e507f7fa0714fce6514f8dacb68ebcaca7dda5d812258f4864b828dd67f24d",
+        "sha256_in_prefix": "43e507f7fa0714fce6514f8dacb68ebcaca7dda5d812258f4864b828dd67f24d",
+        "size_in_bytes": 11494
+      },
+      {
+        "_path": "site-packages/fuzzywuzzy/string_processing.py",
+        "path_type": "hardlink",
+        "sha256": "45b40a65fb894a3147fba0dd8a60a75b8331cf1d8756346480bdf807026de7df",
+        "sha256_in_prefix": "45b40a65fb894a3147fba0dd8a60a75b8331cf1d8756346480bdf807026de7df",
+        "size_in_bytes": 780
+      },
+      {
+        "_path": "site-packages/fuzzywuzzy/utils.py",
+        "path_type": "hardlink",
+        "sha256": "d90b2039c57eb32105d1af6bd2217cdd3bf982c0adcb2164491ef7f80ea85b77",
+        "sha256_in_prefix": "d90b2039c57eb32105d1af6bd2217cdd3bf982c0adcb2164491ef7f80ea85b77",
+        "size_in_bytes": 2595
+      },
+      {
+        "_path": "lib/python3.9/site-packages/fuzzywuzzy/__pycache__/StringMatcher.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/fuzzywuzzy/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/fuzzywuzzy/__pycache__/fuzz.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/fuzzywuzzy/__pycache__/process.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/fuzzywuzzy/__pycache__/string_processing.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.9/site-packages/fuzzywuzzy/__pycache__/utils.cpython-39.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "fuzzywuzzy",
+  "sha256": "6eceba90fa8f97c83b2fcba1a56638a94db540987bde908c28683a37a039e966",
+  "size": 18523,
+  "subdir": "noarch",
+  "timestamp": 1534824434807,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/fuzzywuzzy-0.17.0-py_0.tar.bz2",
+  "version": "0.17.0"
+}
